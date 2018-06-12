@@ -12,3 +12,6 @@ python packages:
 - psycopg2  
    
 ## Installation  
+### PostgreSQL  
+You need PostgreSQL 10. [Here](https://tecadmin.net/install-postgresql-server-on-ubuntu/) you can find how to install it on Ubuntu 16.04.  
+
