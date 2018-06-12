@@ -10,6 +10,7 @@ python packages:
 - Django  
 - Gunicorn  
 - psycopg2  
+- setproctitle  
    
 ## Installation  
 ### PostgreSQL  
