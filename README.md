@@ -4,7 +4,7 @@ The service for invited user registration
 Python 3.5+  
 virtualenv  
 Nginx  
-PostgreSQL  
+PostgreSQL 10  
 Supervisor  
 python packages:  
 - Django  
@@ -13,5 +13,5 @@ python packages:
    
 ## Installation  
 ### PostgreSQL  
-You need PostgreSQL 10. [Here](https://tecadmin.net/install-postgresql-server-on-ubuntu/) you can find how to install it on Ubuntu 16.04 LTS.  
+You need PostgreSQL 10 to be installed on the target server. [Here](https://tecadmin.net/install-postgresql-server-on-ubuntu/) you can find how to install it on Ubuntu 16.04 LTS.  
 
