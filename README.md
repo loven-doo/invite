@@ -6,6 +6,8 @@ virtualenv
 Nginx  
 PostgreSQL 10  
 Supervisor  
+python3-dev  
+libpq-dev  
 python packages:  
 - Django  
 - Gunicorn  
