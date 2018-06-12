@@ -3,7 +3,7 @@ The service for invited user registration
 ## Requirements
 Python 3.5+  
 virtualenv  
-Nginx
+Nginx  
 PostgreSQL  
 Supervisor  
 python packages:  
