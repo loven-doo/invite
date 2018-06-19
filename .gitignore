@@ -1,0 +1,9 @@
+static/*
+media/*
+.idea/
+*.pyc
+*.log
+dist/
+*__pycache__/
+*.ipynb_checkpoints/
+*dump.rdb
